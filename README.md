@@ -2,7 +2,7 @@
 
 # Kanban Board Application
 
-This project is a React-based Kanban board that fetches data from the API and allows users to group and sort tickets dynamically. The board is responsive and saves the user's view state after a page reload.
+This project is a React-based Kanban board that fetches data from the API and allows users to group and sort tickets dynamically. The board is responsive and saves the user's view state after a page reload. Project [Live Link](https://quicksell-frontend-assignment-pink.vercel.app/)
 
 ## API Used
 
